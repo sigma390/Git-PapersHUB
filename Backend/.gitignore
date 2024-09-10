@@ -1,0 +1,7 @@
+node_modules
+Server/.env
+Server/node_modules
+Server/dist/.env
+src/Routes/appPass.txt
+.env
+dist/.env
